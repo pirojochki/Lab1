@@ -1,0 +1,7 @@
+C:\pirojochki\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\pirojochki\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\pirojochki\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\pirojochki\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\pirojochki\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\pirojochki\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\pirojochki\Lab1\Lab1\obj\Debug\Lab1.pdb
